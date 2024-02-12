@@ -30,7 +30,7 @@ console.log("7.Objects");
 console.log("-----------------------------");
 
 console.log("|Use cases for the data types|");
-console.log("|using; backticks, double and single quotes|")
+console.log("|using; backticks(complex), double and single quotes|")
 console.log("-----------------------------");
 console.log("1.1.String using double quotes - This entire text value from start of line");
 console.log('1.2.String using single quotes - This entire text value from start of line');
